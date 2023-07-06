@@ -7,6 +7,7 @@ website:
   image: img/Shannon-facilitating-group-postits-square.jpg
   
   favicon: img/SLH-favicon.png
+  google-analytics: "G-K50ZLQV0CG"
   
   # start of the navigation bar at the top of the website
   navbar:
@@ -18,14 +19,19 @@ website:
         aria-label: email
         href: "mailto:info@shannonholloway.com"  
       - icon: linkedin
+        aria-label: linkedin
         href: https://www.linkedin.com/in/shannonholloway/
       - icon: youtube
+        aria-label: youtube
         href: https://www.youtube.com/@slholloway
       - icon: vimeo
+        aria-label: vimeo
         href: https://vimeo.com/shannonholloway
       - icon: behance
+        aria-label: behance
         href: https://www.behance.net/shannonholloway
       - icon: github
+        aria-label: github
         href: https://github.com/slholloway  
 
   
