@@ -14,17 +14,20 @@ website:
     
     # your social media handles
     right:
+      - icon: envelope
+        aria-label: email
+        href: "mailto:info@shannonholloway.com"  
       - icon: linkedin
         href: https://www.linkedin.com/in/shannonholloway/
       - icon: youtube
         href: https://www.youtube.com/@slholloway
       - icon: vimeo
         href: https://vimeo.com/shannonholloway
+      - icon: behance
+        href: https://www.behance.net/shannonholloway
       - icon: github
         href: https://github.com/slholloway  
-      - icon: envelope
-        aria-label: email
-        href: "mailto:info@shannonholloway.com"  
+
   
   
 
