@@ -3,19 +3,39 @@ about:
   template: jolla
   id: about-block
   image: "img/Shannon-facilitating-group-postits-square.jpg"
+  links:
+    - icon: envelope
+      aria-label: email
+      href: "mailto:info@shannonholloway.com"  
+    - icon: linkedin
+      aria-label: linkedin
+      href: https://www.linkedin.com/in/shannonholloway/
+    - icon: youtube
+      aria-label: youtube
+      href: https://www.youtube.com/@slholloway
+    - icon: vimeo
+      aria-label: vimeo
+      href: https://vimeo.com/shannonholloway
+    - icon: behance
+      aria-label: behance
+      href: https://www.behance.net/shannonholloway
+    - icon: github
+      aria-label: github
+      href: https://github.com/slholloway  
+      
 ---
 ::: {#about-block}
 :::
-# 👋🏼 Hi, I'm Shannon
+# 👋🏼  Hi, I'm Shannon.
 
-I’m a User Experience (UX) research and design expert focused on incubating early-stage ideas into solutions that add unique value to customers. I enjoy the creative process of collaborating with diverse teams to develop new products from 0 to 1.  
+I’m the Founder and Principal of Holloway R&D, a contractor specializing in user experience (UX) research and design for early-stage product development. I partner with clients - startup founders, Fortune 500 leaders, and public sector innovators - in developing new products that unlock customer value by leveraging human-centered design practices from concept to launch.
 
-My career journey started in the visual arts, and my passion to create bold visions on a blank canvas has led me to building human-centered products with emerging technologies. I've worn various hats in research, design, and operations in startups, venture capital, and Google.
+My career journey started in the visual arts, and my passion to create bold visions on a blank canvas led me to building human-centered products with emerging technologies. I've worn various hats in research, design, and operations in startups, venture capital, and Google.
 
-I received my BA in the Practice of Art from UC Berkeley, and my MS in Integrated Digital Media at NYU Tandon School of Engineering. I’ve presented my research at the ACM CHI Conference on Human Factors in Computing Systems and the CSUN Assistive Technology Conference.
+I received my B.A. in the Practice of Art from UC Berkeley, and my M.S. in Integrated Digital Media at NYU Tandon School of Engineering. I’ve presented my research at the <a href="https://dl.acm.org/doi/10.1145/3290607.3312882">ACM CHI Conference on Human Factors in Computing Systems</a>, the <a href="https://www.csun.edu/cod/conference/sessions/2021/index.php/public/presentations/view/1082">CSUN Assistive Technology Conference</a>, and the <a href="https://www.edra.org/page/Proceedings_TOC">Environmental Design Research Association Conference</a>.
 
 My work has concentrated on these research questions:<ul>
-- Productivity: What is the future of work? How might we design reliable and intuitive human-AI collaborations?
-- Interactions: As digital and physical realities merge, how might we balance user needs in immersion and in context?
-- Commercialization: How might we productize breakthrough technologies responsibly in alignment with human values?
+- Productivity tools: What is the future of work? How might we design reliable and intuitive human-AI collaborations?
+- Interaction design: As digital and physical realities merge, how might we balance user needs in immersion and in context?
+- Product-market fit: How might we commercialize breakthrough technologies responsibly in alignment with human values?
 </ul>

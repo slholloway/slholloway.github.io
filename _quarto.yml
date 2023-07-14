@@ -12,29 +12,17 @@ website:
   # start of the navigation bar at the top of the website
   navbar:
     pinned: false
-    
+  
+  # your sub-pages
+    left:
+      - text: "Resume"
+        href: cv/index.qmd
+        
     # your social media handles
     right:
       - icon: envelope
         aria-label: email
         href: "mailto:info@shannonholloway.com"  
-      - icon: linkedin
-        aria-label: linkedin
-        href: https://www.linkedin.com/in/shannonholloway/
-      - icon: youtube
-        aria-label: youtube
-        href: https://www.youtube.com/@slholloway
-      - icon: vimeo
-        aria-label: vimeo
-        href: https://vimeo.com/shannonholloway
-      - icon: behance
-        aria-label: behance
-        href: https://www.behance.net/shannonholloway
-      - icon: github
-        aria-label: github
-        href: https://github.com/slholloway  
-
-  
   
 
 # Don't touch unless you know what you are doing :) ------------
